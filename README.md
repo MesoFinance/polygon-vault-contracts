@@ -1,1 +1,1 @@
-# Base smart contract repository of Meso.Finance
+# Base smart contracts repository of Meso.Finance
