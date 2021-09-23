@@ -1,1 +1,1 @@
-# Base smart contracts repository of Meso.Finance
+# Base smart contracts of Meso.Finance's Polygon auto-compounding vaults
